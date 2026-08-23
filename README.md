@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Vano.png" alt="Vano" width="300">
+  <img src="Vano.png" alt="Vano" width="90">
 </p><p align="center">
   A helpful assistant made by <b>Vamora</b>
 </p><p align="center">
