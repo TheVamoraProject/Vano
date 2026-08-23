@@ -7,11 +7,23 @@
   <a href="https://github.com/TheVamoraProject/Vano/releases"><img src="https://img.shields.io/github/v/release/TheVamoraProject/Vano?color=green&label=latest"></a>
   <a href="https://github.com/TheVamoraProject/Vano/issues"><img src="https://img.shields.io/github/issues/TheVamoraProject/Vano"></a>
   <a href="https://github.com/TheVamoraProject/Vano/stargazers"><img src="https://img.shields.io/github/stars/TheVamoraProject/Vano?style=social"></a>
-</p>---
+</p>
 
-Vano
+---
 
-Vano is a large language model developed by Vamora.
+# Vano
+
+Vano is a large language model developed by Vamora, that's a fine-tuned model based on Gemma 1 2B.
+
+## What It Does
+Vano is good at
+- Simple mathematics
+- Customer support
+- Summarizing text files and code (Python, Batch, and more.)
+## Limitations
+**Hallucination may happen**
+
+**The AI has issues with reading bigger code**
 
 ---
 
