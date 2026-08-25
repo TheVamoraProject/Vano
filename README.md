@@ -23,8 +23,6 @@ Vano is good at
 ## Limitations
 **Hallucination may happen**
 
-**The AI has issues with reading bigger code**
-
 ---
 
 <p align="center">
