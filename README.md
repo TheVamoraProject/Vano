@@ -13,7 +13,7 @@
 
 # Vano
 
-Vano is a large language model developed by Vamora, that's a fine-tuned model based on Gemma 1 2B.
+Vano is a large language model developed by Vamora, that's a fine-tuned model based on Gemma 1 2B
 
 ## What It Does
 Vano is good at
